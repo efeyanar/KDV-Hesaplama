@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KDV", "KDV\KDV.csproj", "{B15778DC-F33C-461E-908F-CD8337F63864}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B15778DC-F33C-461E-908F-CD8337F63864}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B15778DC-F33C-461E-908F-CD8337F63864}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B15778DC-F33C-461E-908F-CD8337F63864}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B15778DC-F33C-461E-908F-CD8337F63864}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B540DCA0-B420-44B3-867B-598A9AF5698A}
+	EndGlobalSection
+EndGlobal

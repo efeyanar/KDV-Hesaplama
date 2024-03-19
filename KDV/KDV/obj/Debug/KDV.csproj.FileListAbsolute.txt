@@ -1,0 +1,10 @@
+C:\Users\Murat\source\repos\KDV\KDV\bin\Debug\KDV.exe.config
+C:\Users\Murat\source\repos\KDV\KDV\bin\Debug\KDV.exe
+C:\Users\Murat\source\repos\KDV\KDV\bin\Debug\KDV.pdb
+C:\Users\Murat\source\repos\KDV\KDV\obj\Debug\KDV.csproj.AssemblyReference.cache
+C:\Users\Murat\source\repos\KDV\KDV\obj\Debug\KDV.Form1.resources
+C:\Users\Murat\source\repos\KDV\KDV\obj\Debug\KDV.Properties.Resources.resources
+C:\Users\Murat\source\repos\KDV\KDV\obj\Debug\KDV.csproj.GenerateResource.cache
+C:\Users\Murat\source\repos\KDV\KDV\obj\Debug\KDV.csproj.CoreCompileInputs.cache
+C:\Users\Murat\source\repos\KDV\KDV\obj\Debug\KDV.exe
+C:\Users\Murat\source\repos\KDV\KDV\obj\Debug\KDV.pdb
